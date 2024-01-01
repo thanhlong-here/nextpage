@@ -1,0 +1,44 @@
+.app-sidebar {
+    padding-top: 0;
+}
+
+.preview {
+    max-height: 40vh;
+    overflow: auto;
+}
+
+.preview:hover {
+    background-color: #272822;
+}
+
+.btn-close {
+    background: none;
+}
+
+.desktop-logo {
+    max-width: 64px;
+}
+
+.ace_editor {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.modal-open {
+    overflow: hidden !important;
+}
+
+.select2 {
+    width: 100% !important;
+}
+
+.datatable tbody tr:hover {
+    background-color: #272822;
+}
+
+body {
+    overflow-y: auto;
+}
